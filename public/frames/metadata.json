@@ -1,0 +1,791 @@
+{
+  "total_frames": 128,
+  "degrees_per_frame": 2.8125,
+  "background_hex": "#ea110b",
+  "background_rgb": [
+    234,
+    17,
+    11
+  ],
+  "video_specs": {
+    "width": 720,
+    "height": 1280,
+    "fps": 24.0,
+    "total_frames": 240,
+    "duration": 10.0
+  },
+  "face_center": {
+    "x_ratio": 0.517,
+    "y_ratio": 0.125
+  },
+  "frames": [
+    {
+      "index": 0,
+      "angle_deg": 0.0,
+      "source_video_frame": 140,
+      "filename": "frame-000.webp"
+    },
+    {
+      "index": 1,
+      "angle_deg": 2.81,
+      "source_video_frame": 141,
+      "filename": "frame-001.webp"
+    },
+    {
+      "index": 2,
+      "angle_deg": 5.62,
+      "source_video_frame": 142,
+      "filename": "frame-002.webp"
+    },
+    {
+      "index": 3,
+      "angle_deg": 8.44,
+      "source_video_frame": 144,
+      "filename": "frame-003.webp"
+    },
+    {
+      "index": 4,
+      "angle_deg": 11.25,
+      "source_video_frame": 145,
+      "filename": "frame-004.webp"
+    },
+    {
+      "index": 5,
+      "angle_deg": 14.06,
+      "source_video_frame": 147,
+      "filename": "frame-005.webp"
+    },
+    {
+      "index": 6,
+      "angle_deg": 16.88,
+      "source_video_frame": 148,
+      "filename": "frame-006.webp"
+    },
+    {
+      "index": 7,
+      "angle_deg": 19.69,
+      "source_video_frame": 150,
+      "filename": "frame-007.webp"
+    },
+    {
+      "index": 8,
+      "angle_deg": 22.5,
+      "source_video_frame": 151,
+      "filename": "frame-008.webp"
+    },
+    {
+      "index": 9,
+      "angle_deg": 25.31,
+      "source_video_frame": 152,
+      "filename": "frame-009.webp"
+    },
+    {
+      "index": 10,
+      "angle_deg": 28.12,
+      "source_video_frame": 154,
+      "filename": "frame-010.webp"
+    },
+    {
+      "index": 11,
+      "angle_deg": 30.94,
+      "source_video_frame": 155,
+      "filename": "frame-011.webp"
+    },
+    {
+      "index": 12,
+      "angle_deg": 33.75,
+      "source_video_frame": 157,
+      "filename": "frame-012.webp"
+    },
+    {
+      "index": 13,
+      "angle_deg": 36.56,
+      "source_video_frame": 158,
+      "filename": "frame-013.webp"
+    },
+    {
+      "index": 14,
+      "angle_deg": 39.38,
+      "source_video_frame": 160,
+      "filename": "frame-014.webp"
+    },
+    {
+      "index": 15,
+      "angle_deg": 42.19,
+      "source_video_frame": 161,
+      "filename": "frame-015.webp"
+    },
+    {
+      "index": 16,
+      "angle_deg": 45.0,
+      "source_video_frame": 163,
+      "filename": "frame-016.webp"
+    },
+    {
+      "index": 17,
+      "angle_deg": 47.81,
+      "source_video_frame": 164,
+      "filename": "frame-017.webp"
+    },
+    {
+      "index": 18,
+      "angle_deg": 50.62,
+      "source_video_frame": 165,
+      "filename": "frame-018.webp"
+    },
+    {
+      "index": 19,
+      "angle_deg": 53.44,
+      "source_video_frame": 167,
+      "filename": "frame-019.webp"
+    },
+    {
+      "index": 20,
+      "angle_deg": 56.25,
+      "source_video_frame": 168,
+      "filename": "frame-020.webp"
+    },
+    {
+      "index": 21,
+      "angle_deg": 59.06,
+      "source_video_frame": 170,
+      "filename": "frame-021.webp"
+    },
+    {
+      "index": 22,
+      "angle_deg": 61.88,
+      "source_video_frame": 171,
+      "filename": "frame-022.webp"
+    },
+    {
+      "index": 23,
+      "angle_deg": 64.69,
+      "source_video_frame": 173,
+      "filename": "frame-023.webp"
+    },
+    {
+      "index": 24,
+      "angle_deg": 67.5,
+      "source_video_frame": 174,
+      "filename": "frame-024.webp"
+    },
+    {
+      "index": 25,
+      "angle_deg": 70.31,
+      "source_video_frame": 175,
+      "filename": "frame-025.webp"
+    },
+    {
+      "index": 26,
+      "angle_deg": 73.12,
+      "source_video_frame": 177,
+      "filename": "frame-026.webp"
+    },
+    {
+      "index": 27,
+      "angle_deg": 75.94,
+      "source_video_frame": 178,
+      "filename": "frame-027.webp"
+    },
+    {
+      "index": 28,
+      "angle_deg": 78.75,
+      "source_video_frame": 180,
+      "filename": "frame-028.webp"
+    },
+    {
+      "index": 29,
+      "angle_deg": 81.56,
+      "source_video_frame": 181,
+      "filename": "frame-029.webp"
+    },
+    {
+      "index": 30,
+      "angle_deg": 84.38,
+      "source_video_frame": 183,
+      "filename": "frame-030.webp"
+    },
+    {
+      "index": 31,
+      "angle_deg": 87.19,
+      "source_video_frame": 184,
+      "filename": "frame-031.webp"
+    },
+    {
+      "index": 32,
+      "angle_deg": 90.0,
+      "source_video_frame": 186,
+      "filename": "frame-032.webp"
+    },
+    {
+      "index": 33,
+      "angle_deg": 92.81,
+      "source_video_frame": 188,
+      "filename": "frame-033.webp"
+    },
+    {
+      "index": 34,
+      "angle_deg": 95.62,
+      "source_video_frame": 190,
+      "filename": "frame-034.webp"
+    },
+    {
+      "index": 35,
+      "angle_deg": 98.44,
+      "source_video_frame": 192,
+      "filename": "frame-035.webp"
+    },
+    {
+      "index": 36,
+      "angle_deg": 101.25,
+      "source_video_frame": 194,
+      "filename": "frame-036.webp"
+    },
+    {
+      "index": 37,
+      "angle_deg": 104.06,
+      "source_video_frame": 196,
+      "filename": "frame-037.webp"
+    },
+    {
+      "index": 38,
+      "angle_deg": 106.88,
+      "source_video_frame": 198,
+      "filename": "frame-038.webp"
+    },
+    {
+      "index": 39,
+      "angle_deg": 109.69,
+      "source_video_frame": 200,
+      "filename": "frame-039.webp"
+    },
+    {
+      "index": 40,
+      "angle_deg": 112.5,
+      "source_video_frame": 22,
+      "filename": "frame-040.webp"
+    },
+    {
+      "index": 41,
+      "angle_deg": 115.31,
+      "source_video_frame": 23,
+      "filename": "frame-041.webp"
+    },
+    {
+      "index": 42,
+      "angle_deg": 118.12,
+      "source_video_frame": 25,
+      "filename": "frame-042.webp"
+    },
+    {
+      "index": 43,
+      "angle_deg": 120.94,
+      "source_video_frame": 27,
+      "filename": "frame-043.webp"
+    },
+    {
+      "index": 44,
+      "angle_deg": 123.75,
+      "source_video_frame": 29,
+      "filename": "frame-044.webp"
+    },
+    {
+      "index": 45,
+      "angle_deg": 126.56,
+      "source_video_frame": 30,
+      "filename": "frame-045.webp"
+    },
+    {
+      "index": 46,
+      "angle_deg": 129.38,
+      "source_video_frame": 32,
+      "filename": "frame-046.webp"
+    },
+    {
+      "index": 47,
+      "angle_deg": 132.19,
+      "source_video_frame": 34,
+      "filename": "frame-047.webp"
+    },
+    {
+      "index": 48,
+      "angle_deg": 135.0,
+      "source_video_frame": 36,
+      "filename": "frame-048.webp"
+    },
+    {
+      "index": 49,
+      "angle_deg": 137.81,
+      "source_video_frame": 37,
+      "filename": "frame-049.webp"
+    },
+    {
+      "index": 50,
+      "angle_deg": 140.62,
+      "source_video_frame": 39,
+      "filename": "frame-050.webp"
+    },
+    {
+      "index": 51,
+      "angle_deg": 143.44,
+      "source_video_frame": 41,
+      "filename": "frame-051.webp"
+    },
+    {
+      "index": 52,
+      "angle_deg": 146.25,
+      "source_video_frame": 43,
+      "filename": "frame-052.webp"
+    },
+    {
+      "index": 53,
+      "angle_deg": 149.06,
+      "source_video_frame": 44,
+      "filename": "frame-053.webp"
+    },
+    {
+      "index": 54,
+      "angle_deg": 151.88,
+      "source_video_frame": 46,
+      "filename": "frame-054.webp"
+    },
+    {
+      "index": 55,
+      "angle_deg": 154.69,
+      "source_video_frame": 48,
+      "filename": "frame-055.webp"
+    },
+    {
+      "index": 56,
+      "angle_deg": 157.5,
+      "source_video_frame": 50,
+      "filename": "frame-056.webp"
+    },
+    {
+      "index": 57,
+      "angle_deg": 160.31,
+      "source_video_frame": 51,
+      "filename": "frame-057.webp"
+    },
+    {
+      "index": 58,
+      "angle_deg": 163.12,
+      "source_video_frame": 53,
+      "filename": "frame-058.webp"
+    },
+    {
+      "index": 59,
+      "angle_deg": 165.94,
+      "source_video_frame": 55,
+      "filename": "frame-059.webp"
+    },
+    {
+      "index": 60,
+      "angle_deg": 168.75,
+      "source_video_frame": 57,
+      "filename": "frame-060.webp"
+    },
+    {
+      "index": 61,
+      "angle_deg": 171.56,
+      "source_video_frame": 58,
+      "filename": "frame-061.webp"
+    },
+    {
+      "index": 62,
+      "angle_deg": 174.38,
+      "source_video_frame": 60,
+      "filename": "frame-062.webp"
+    },
+    {
+      "index": 63,
+      "angle_deg": 177.19,
+      "source_video_frame": 62,
+      "filename": "frame-063.webp"
+    },
+    {
+      "index": 64,
+      "angle_deg": 180.0,
+      "source_video_frame": 64,
+      "filename": "frame-064.webp"
+    },
+    {
+      "index": 65,
+      "angle_deg": 182.81,
+      "source_video_frame": 65,
+      "filename": "frame-065.webp"
+    },
+    {
+      "index": 66,
+      "angle_deg": 185.62,
+      "source_video_frame": 66,
+      "filename": "frame-066.webp"
+    },
+    {
+      "index": 67,
+      "angle_deg": 188.44,
+      "source_video_frame": 67,
+      "filename": "frame-067.webp"
+    },
+    {
+      "index": 68,
+      "angle_deg": 191.25,
+      "source_video_frame": 69,
+      "filename": "frame-068.webp"
+    },
+    {
+      "index": 69,
+      "angle_deg": 194.06,
+      "source_video_frame": 70,
+      "filename": "frame-069.webp"
+    },
+    {
+      "index": 70,
+      "angle_deg": 196.88,
+      "source_video_frame": 71,
+      "filename": "frame-070.webp"
+    },
+    {
+      "index": 71,
+      "angle_deg": 199.69,
+      "source_video_frame": 73,
+      "filename": "frame-071.webp"
+    },
+    {
+      "index": 72,
+      "angle_deg": 202.5,
+      "source_video_frame": 74,
+      "filename": "frame-072.webp"
+    },
+    {
+      "index": 73,
+      "angle_deg": 205.31,
+      "source_video_frame": 75,
+      "filename": "frame-073.webp"
+    },
+    {
+      "index": 74,
+      "angle_deg": 208.12,
+      "source_video_frame": 77,
+      "filename": "frame-074.webp"
+    },
+    {
+      "index": 75,
+      "angle_deg": 210.94,
+      "source_video_frame": 78,
+      "filename": "frame-075.webp"
+    },
+    {
+      "index": 76,
+      "angle_deg": 213.75,
+      "source_video_frame": 79,
+      "filename": "frame-076.webp"
+    },
+    {
+      "index": 77,
+      "angle_deg": 216.56,
+      "source_video_frame": 81,
+      "filename": "frame-077.webp"
+    },
+    {
+      "index": 78,
+      "angle_deg": 219.38,
+      "source_video_frame": 82,
+      "filename": "frame-078.webp"
+    },
+    {
+      "index": 79,
+      "angle_deg": 222.19,
+      "source_video_frame": 83,
+      "filename": "frame-079.webp"
+    },
+    {
+      "index": 80,
+      "angle_deg": 225.0,
+      "source_video_frame": 85,
+      "filename": "frame-080.webp"
+    },
+    {
+      "index": 81,
+      "angle_deg": 227.81,
+      "source_video_frame": 86,
+      "filename": "frame-081.webp"
+    },
+    {
+      "index": 82,
+      "angle_deg": 230.62,
+      "source_video_frame": 87,
+      "filename": "frame-082.webp"
+    },
+    {
+      "index": 83,
+      "angle_deg": 233.44,
+      "source_video_frame": 88,
+      "filename": "frame-083.webp"
+    },
+    {
+      "index": 84,
+      "angle_deg": 236.25,
+      "source_video_frame": 90,
+      "filename": "frame-084.webp"
+    },
+    {
+      "index": 85,
+      "angle_deg": 239.06,
+      "source_video_frame": 91,
+      "filename": "frame-085.webp"
+    },
+    {
+      "index": 86,
+      "angle_deg": 241.88,
+      "source_video_frame": 92,
+      "filename": "frame-086.webp"
+    },
+    {
+      "index": 87,
+      "angle_deg": 244.69,
+      "source_video_frame": 94,
+      "filename": "frame-087.webp"
+    },
+    {
+      "index": 88,
+      "angle_deg": 247.5,
+      "source_video_frame": 95,
+      "filename": "frame-088.webp"
+    },
+    {
+      "index": 89,
+      "angle_deg": 250.31,
+      "source_video_frame": 96,
+      "filename": "frame-089.webp"
+    },
+    {
+      "index": 90,
+      "angle_deg": 253.12,
+      "source_video_frame": 98,
+      "filename": "frame-090.webp"
+    },
+    {
+      "index": 91,
+      "angle_deg": 255.94,
+      "source_video_frame": 99,
+      "filename": "frame-091.webp"
+    },
+    {
+      "index": 92,
+      "angle_deg": 258.75,
+      "source_video_frame": 100,
+      "filename": "frame-092.webp"
+    },
+    {
+      "index": 93,
+      "angle_deg": 261.56,
+      "source_video_frame": 102,
+      "filename": "frame-093.webp"
+    },
+    {
+      "index": 94,
+      "angle_deg": 264.38,
+      "source_video_frame": 103,
+      "filename": "frame-094.webp"
+    },
+    {
+      "index": 95,
+      "angle_deg": 267.19,
+      "source_video_frame": 104,
+      "filename": "frame-095.webp"
+    },
+    {
+      "index": 96,
+      "angle_deg": 270.0,
+      "source_video_frame": 106,
+      "filename": "frame-096.webp"
+    },
+    {
+      "index": 97,
+      "angle_deg": 272.81,
+      "source_video_frame": 107,
+      "filename": "frame-097.webp"
+    },
+    {
+      "index": 98,
+      "angle_deg": 275.62,
+      "source_video_frame": 108,
+      "filename": "frame-098.webp"
+    },
+    {
+      "index": 99,
+      "angle_deg": 278.44,
+      "source_video_frame": 109,
+      "filename": "frame-099.webp"
+    },
+    {
+      "index": 100,
+      "angle_deg": 281.25,
+      "source_video_frame": 110,
+      "filename": "frame-100.webp"
+    },
+    {
+      "index": 101,
+      "angle_deg": 284.06,
+      "source_video_frame": 111,
+      "filename": "frame-101.webp"
+    },
+    {
+      "index": 102,
+      "angle_deg": 286.88,
+      "source_video_frame": 112,
+      "filename": "frame-102.webp"
+    },
+    {
+      "index": 103,
+      "angle_deg": 289.69,
+      "source_video_frame": 113,
+      "filename": "frame-103.webp"
+    },
+    {
+      "index": 104,
+      "angle_deg": 292.5,
+      "source_video_frame": 114,
+      "filename": "frame-104.webp"
+    },
+    {
+      "index": 105,
+      "angle_deg": 295.31,
+      "source_video_frame": 115,
+      "filename": "frame-105.webp"
+    },
+    {
+      "index": 106,
+      "angle_deg": 298.12,
+      "source_video_frame": 116,
+      "filename": "frame-106.webp"
+    },
+    {
+      "index": 107,
+      "angle_deg": 300.94,
+      "source_video_frame": 117,
+      "filename": "frame-107.webp"
+    },
+    {
+      "index": 108,
+      "angle_deg": 303.75,
+      "source_video_frame": 118,
+      "filename": "frame-108.webp"
+    },
+    {
+      "index": 109,
+      "angle_deg": 306.56,
+      "source_video_frame": 119,
+      "filename": "frame-109.webp"
+    },
+    {
+      "index": 110,
+      "angle_deg": 309.38,
+      "source_video_frame": 120,
+      "filename": "frame-110.webp"
+    },
+    {
+      "index": 111,
+      "angle_deg": 312.19,
+      "source_video_frame": 121,
+      "filename": "frame-111.webp"
+    },
+    {
+      "index": 112,
+      "angle_deg": 315.0,
+      "source_video_frame": 123,
+      "filename": "frame-112.webp"
+    },
+    {
+      "index": 113,
+      "angle_deg": 317.81,
+      "source_video_frame": 124,
+      "filename": "frame-113.webp"
+    },
+    {
+      "index": 114,
+      "angle_deg": 320.62,
+      "source_video_frame": 125,
+      "filename": "frame-114.webp"
+    },
+    {
+      "index": 115,
+      "angle_deg": 323.44,
+      "source_video_frame": 126,
+      "filename": "frame-115.webp"
+    },
+    {
+      "index": 116,
+      "angle_deg": 326.25,
+      "source_video_frame": 127,
+      "filename": "frame-116.webp"
+    },
+    {
+      "index": 117,
+      "angle_deg": 329.06,
+      "source_video_frame": 128,
+      "filename": "frame-117.webp"
+    },
+    {
+      "index": 118,
+      "angle_deg": 331.88,
+      "source_video_frame": 129,
+      "filename": "frame-118.webp"
+    },
+    {
+      "index": 119,
+      "angle_deg": 334.69,
+      "source_video_frame": 130,
+      "filename": "frame-119.webp"
+    },
+    {
+      "index": 120,
+      "angle_deg": 337.5,
+      "source_video_frame": 131,
+      "filename": "frame-120.webp"
+    },
+    {
+      "index": 121,
+      "angle_deg": 340.31,
+      "source_video_frame": 132,
+      "filename": "frame-121.webp"
+    },
+    {
+      "index": 122,
+      "angle_deg": 343.12,
+      "source_video_frame": 133,
+      "filename": "frame-122.webp"
+    },
+    {
+      "index": 123,
+      "angle_deg": 345.94,
+      "source_video_frame": 134,
+      "filename": "frame-123.webp"
+    },
+    {
+      "index": 124,
+      "angle_deg": 348.75,
+      "source_video_frame": 135,
+      "filename": "frame-124.webp"
+    },
+    {
+      "index": 125,
+      "angle_deg": 351.56,
+      "source_video_frame": 136,
+      "filename": "frame-125.webp"
+    },
+    {
+      "index": 126,
+      "angle_deg": 354.38,
+      "source_video_frame": 137,
+      "filename": "frame-126.webp"
+    },
+    {
+      "index": 127,
+      "angle_deg": 357.19,
+      "source_video_frame": 138,
+      "filename": "frame-127.webp"
+    }
+  ]
+}
